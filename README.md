@@ -1,4 +1,4 @@
-# Spring Boot Registration and Login System
+# Spring Boot Login and Registration System
 
 #### Run:
 
